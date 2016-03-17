@@ -1,0 +1,27 @@
+{
+  "name": "ng-circular-progress",
+  "title": "Angularjs Circular Progress Bar",
+  "description": "A doughnut animated progress bar for angularjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aladdindev/ng-circular-progress",
+  "author": {
+    "name": "Aladdin Dev",
+    "email": "admin@aladdian.com",
+    "url": "http://www.aladdian.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aladdindev/ng-circular-progress.git"
+  },
+  "bugs": "https://github.com/aladdindev/ng-circular-progress/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/aladdindev/ng-circular-progress/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.2.29"
+  },
+  "keywords": []
+}
