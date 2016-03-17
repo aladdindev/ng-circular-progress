@@ -1,6 +1,6 @@
 # Angularjs Circular Progress Bar
 
-A doughnut animated progress bar for angularjs
+A doughnut animated progress bar for angularjs <br>
 ![](http://www.aladdian.com/img/circularprogress.png)
 
 ## Getting Started
