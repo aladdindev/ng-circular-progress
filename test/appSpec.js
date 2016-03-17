@@ -1,4 +1,4 @@
-describe('directive: circular-progress', function() {
+describe('directive: circular-progress', function(){
 	beforeEach(module('ng-circular-progress'));
 
 	describe('with no attributes given', function(){
